@@ -1,4 +1,10 @@
-   <style>  
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Miracle的个人网站</title>
+    <style>  
       body {
         margin: 0;
       }
@@ -11,7 +17,7 @@
     padding:40px;
     ">
       <img src="https://tupian.qqw21.com/article/UploadPic/2020-6/20206221658942739.jpg" alt="潘勇睿" width="80px" height="80px">
-      <figcaption>MIracle</figcaption>
+      <figcaption>Miracle</figcaption>
     </div>
     <div style="
     max-width: 700px;
